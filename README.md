@@ -1,7 +1,5 @@
-## Fala dev, me chamo Gustavo Harlocchi 👋
+# Fala dev, me chamo Gustavo Harlocchi 👋
 </br>
-
-## 
 
  - 📚Atualmente estudando Java <br>
  - 💻cursando Análise e Desenvolvimentos de Sistemas<br>
