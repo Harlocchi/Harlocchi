@@ -2,7 +2,6 @@
 ## Experience with:
 - 💻 Backend Developer - Java/Python/Spring
 - 📱 Mobile Developer - React Native
-- 📚 Attending Fatec in Systems Analysis and Development
 - 👨‍💻 Data manipulation - Python, Pandas, Numpy, Spacy
  <br>
  <br>
