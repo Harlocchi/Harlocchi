@@ -6,8 +6,8 @@
 - 👨‍💻 data manipulation - Python, Pandas, Numpy, Spacy
  <br>
  <br>
- # 🏆 Competitions 🏆
-
+ 
+ ## 🏆 Competitions 🏆
 - 🥇 23th place in InterFatecs 2023
 - 🥇 1th place in InterFatecs 2023(Regional phase)
 - 🏅 vice-champion VI Fatec Ourinhos Marathon 2023
