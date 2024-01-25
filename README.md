@@ -1,6 +1,6 @@
 # Fala dev, me chamo Gustavo Harlocchi 👋
 </br>
-## Experience with:
+## Experience with:  <br>
 - 💻 Backend Developer - Java/Python/Spring
 - 📱 Mobile Developer - React Native
 - 📚 Attending Fatec in Systems Analysis and Development
@@ -8,7 +8,7 @@
  <br>
  <br>
  # 🏆 Competitions 🏆
- 
+
 - 🥇 23th place in InterFatecs 2023
 - 🥇 1th place in InterFatecs 2023(Regional phase)
 - 🏅 vice-champion VI Fatec Ourinhos Marathon 2023
