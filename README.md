@@ -3,7 +3,7 @@
 - 💻 Backend Developer - Java/Python/Spring
 - 📱 Mobile Developer - React Native
 - 📚 Attending Fatec in Systems Analysis and Development
-- 👨‍💻 data manipulation - Python, Pandas, Numpy, Spacy
+- 👨‍💻 Data manipulation - Python, Pandas, Numpy, Spacy
  <br>
  <br>
  
