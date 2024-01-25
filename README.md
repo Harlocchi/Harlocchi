@@ -23,7 +23,7 @@
 </div>
 
 
-### Connect with me:
+
 <div>
   <a href="https://github.com/Harlocchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlocchi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -32,8 +32,7 @@
 <br>
 
 
-##
-
+### Connect with me:
 <div> 
   
   <a href="https://www.instagram.com/_gharlocchi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="https://www.instagram.com/_gharlocchi/"></a>
