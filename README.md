@@ -1,6 +1,5 @@
 # Fala dev, me chamo Gustavo Harlocchi 👋
-</br>
-## Experience with:  <br>
+## Experience with:
 - 💻 Backend Developer - Java/Python/Spring
 - 📱 Mobile Developer - React Native
 - 📚 Attending Fatec in Systems Analysis and Development
