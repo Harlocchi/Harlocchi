@@ -1,7 +1,7 @@
 # Fala dev, me chamo Gustavo Harlocchi 👋
 ## Experience with:
-- 💻 Backend Developer - Java/Python/Spring
-- 📱 Mobile Developer - React Native
+- 💻 Backend Developer - Java,Python,Springboot, django
+- 📱 Mobile Developer - React Native, Java
 - 👨‍💻 Data manipulation - Python, Pandas, Numpy, Spacy
  <br>
  <br>
